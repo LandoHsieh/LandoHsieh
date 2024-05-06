@@ -1,9 +1,8 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI5MTUyMzQsIm5iZiI6MTcwMjkxNDkzNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE4VDE1NTUzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmMzFkNzJhOTgyMzgzZTZkNDRlYjI5ZDY1ZGJlMzM0NTM3MzY3ZTQ2YTk0MWVjNjg1MDQzOWQ5MzQ3OGIzZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.HyUTu6HEOFlhw78bT4ILRDFsHkEz4eaJAqJg6K8WGxs)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lando</h1>
 <h3 align="center">A passionate backend software engineer from Tainan.</h3>
 <img align="right" alt="Working" width="400" src="https://i.giphy.com/XbQesBg4di7St1NbqY.webp">
 
-- 🌱 I’m currently learning **Nginx, Docker, Kubernetes**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **landoycx113@gmail.com**
 
@@ -13,8 +12,122 @@
 <p align="left">
 <a href="https://linkedin.com/in/謝育誠" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="謝育誠" height="30" width="40" /></a>
 </p>
+<br/>
+<br/>
+<h2 align="left">Languages and Tools</h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
+<p align="center" dir="auto">
+<table><tbody><tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="NodeJS" style="max-width: 100%;">
+      </a>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" style="max-width: 100%;">
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="tailwind" style="max-width: 100%;">
+      </a>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.svgrepo.com/show/353751/flutter.svg" width="48" height="48" alt="Flutter" style="max-width: 100%;">
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" width="48" height="48" alt="net" style="max-width: 100%;">
+      </a>
+      <br>ASP.NET
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" style="max-width: 100%;">
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width="48" height="48" alt="docker" style="max-width: 100%;">
+      </a>
+      <br>docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" width="48" height="48" alt="Kubernetes" style="max-width: 100%;">
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://miro.medium.com/v2/resize:fit:256/1*zqHz-RBmkEoZ_QJwlntz7Q.png" width="48" height="48" alt="Nginx" style="max-width: 100%;">
+      </a>
+      <br>Nginx
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/redis-logo.png" width="55" height="48" alt="Redis" style="max-width: 100%;">
+      </a>
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" style="max-width: 100%;">
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://pbs.twimg.com/profile_images/1452637606559326217/GFz_P-5e_400x400.png" width="48" height="48" alt="MongoDB" style="max-width: 100%;">
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="48" height="48" alt="Python" style="max-width: 100%;">
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" style="max-width: 100%;">
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="48" height="48" alt="arduino" style="max-width: 100%;">
+      </a>
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" width="42" height="48" alt="C" style="max-width: 100%;">
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="48" height="48" alt="C#" style="max-width: 100%;">
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" style="max-width: 100%;">
+      </a>
+      <br>Postman
+    </td>
+  </tr></tbody></table>
+</p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=landohsieh&show_icons=true&locale=en&layout=compact" alt="landohsieh" /></p>
